@@ -34,8 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 I found it challenging at first to figure out what the right button placement was for the Add button and how to align the different elements on the design panel
-and compare those design elements with the code on the code panel. I also closed the emulator a few times by accident which made the loading process a bit
-slower every time I tried to test a new change.
+and compare those design elements with the code on the code panel.
 
 ## License
 
